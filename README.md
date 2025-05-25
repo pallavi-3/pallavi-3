@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @pallavi-3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-pallavi-3/pallavi-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Description:
+This is a basic HTML website for Apexplanet.The home page includes a navigation bar,a hero banner,and a section displaying different internship opportunities. Each program is shown with an image, title, and short description. The site uses external CSS styling and includes links to a to-do list and contact page 
+
+Features:
+
+Responsive navigation bar
+Hero banner with a title
+Simple navigation menu
+Styled with CSS
+How to Run:
+
+Open index.html in any modern web browser.
+Technologies Used:
+
+HTML5
+CSS3
+JavaScript 
+Image hosting via post images
+Author:
+Mummidi Pallavi 
